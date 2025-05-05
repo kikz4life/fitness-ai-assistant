@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 **Live Site:** [https://fitness-ai-assistant-six.vercel.app/](https://fitness-ai-assistant-six.vercel.app/)
 
+**Credits To:** Codeflex YT https://www.youtube.com/watch?v=BCufdom7xgY
+
 Fitness AI Assistant is a modern voice-powered fitness application designed to help users interact with AI using natural voice commands. The project integrates a robust stack of user management, real-time communication, AI, and frontend tooling.
 
 ---
