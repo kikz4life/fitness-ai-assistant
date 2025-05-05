@@ -1,5 +1,35 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+# 🏋️‍♀️ Fitness AI Assistant
+
+**Live Site:** [https://fitness-ai-assistant-six.vercel.app/](https://fitness-ai-assistant-six.vercel.app/)
+
+Fitness AI Assistant is a modern voice-powered fitness application designed to help users interact with AI using natural voice commands. The project integrates a robust stack of user management, real-time communication, AI, and frontend tooling.
+
+---
+
+## 🚀 Tools & Technologies
+
+### 🧑‍💼 [Clerk](https://clerk.com/)
+The most comprehensive **User Management Platform**, providing seamless authentication and user session handling.
+
+### 🗣️ [VAPI](https://vapi.ai/?aff=h2t&gad_source=1&gad_campaignid=22453100076&gbraid=0AAAAA_Ziq8ZPZLPi0zZ40XpeVpyW9-ulu&gclid=Cj0KCQjw2tHABhCiARIsANZzDWpADNl75xBsR02ebsKg_4WFFMcjkyaN3kexwH5xrUDGKmX_zzjWu_QaAnquEALw_wcB)
+A developer platform for **Voice AI agents**, enabling real-time voice-based interactions with LLMs and assistants.
+
+### 🔗 [Convex](https://www.convex.dev/)
+A fully integrated backend platform for modern web apps, handling **database**, **functions**, and **real-time updates** without server management.
+
+### 📬 [Svix](https://www.npmjs.com/package/svix)
+An SDK for **webhook verification and delivery**, used for integrating with event-based systems like Clerk and Convex.
+
+### 🎨 [shadcn/ui](https://ui.shadcn.com/)
+A beautifully designed **component library** based on Tailwind CSS and Radix UI. Perfect for rapidly building accessible UI with modern aesthetics.
+
+### 🤖 [Google AI Studio (Gemini)](https://aistudio.google.com/prompts/new_chat)
+A fast and interactive platform for building with **Gemini**, Google’s multimodal generative AI models—used to design and prompt fitness-related conversations.
+
+---
+
 ## Getting Started
 
 First, run the development server:
