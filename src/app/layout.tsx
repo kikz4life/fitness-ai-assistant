@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CodeFlex AI - Get Jacked",
+  title: "Get Jacked",
   description: "A modern fitness AI platform to get jacked for free.",
 };
 
